@@ -1,34 +1,34 @@
-## 📚Android Read-Story Aplication.
-A mobile application that reads stories to users.
+# 📚 Android Read-Story Aplication
+**A mobile application that reads stories to users.**
 
 > ℹ️ This project is not open source and does not grant any usage rights.
 > For usage terms and legal information, see [Code Ownership & Usage Terms](#-code-ownership--usage-terms).
 
-## 📕Overview
+## 📕 Overview
 Android Read-Story Aplication is an Android application that that lets users read stories from a given catalog. It also gives the user the option to have the story read to him.
 
-## ⚡Features
- - 📚 Story list browsing with titles and details.
- - 🌓Custom system theme in light or dark.
- - 🗣️Pre-set language depending on the system language, either Greek, English, or Italian.
- - 🎵 Audio narration support for every story.
- - 🔄 Synchronized reading and listening progress.
- - 🎯 Real-time text highlighting during narration.
+## ⚡ Features
+ - 📚 Story list browsing with titles and details
+ - 🌓Custom system theme in light or dark
+ - 🗣️Pre-set language depending on the system language, either Greek, English, or Italian
+ - 🎵 Audio narration support for every story
+ - 🔄 Synchronized reading and listening progress
+ - 🎯 Real-time text highlighting during narration
 
 
-## 🧠Technologies Used.
- - Android SDK.
- - Java for the Back-End.
- - Firebase for Database, Authentication and Registration.
- - XML for the UI and the application’s system settings.
+## 🧠 Technologies Used
+ - Android SDK
+ - Java for the Back-End
+ - Firebase for Database, Authentication and Registration
+ - XML for the UI and the application’s system settings
 
-## 🎯Purpose.
+## 🎯 Purpose
 This application was created to provide a relaxing way for users to read and hear their favourite stories. **This application is developed solely for academic and research purposes**.
 
-## 🧰Prerequisites.
+## 🧰 Prerequisites
 Before building and running this application, ensure you have the following:
- - Android studio.
- - Firebase.
+ - Android studio
+ - Firebase
 
 
 ## 📦 Installation
@@ -59,7 +59,7 @@ cd Android_Read_Story_Aplication
 
 This project was created and maintained by:
 
-- Konstantinos Pavlis (@PavlisKostas)
+- Konstantinos Pavlis (@kpavlis)
 - Theofanis Tzoumakas (@theofanistzoumakas)
 - Michael-Panagiotis Kapetanios (@KapetaniosMP)
 
@@ -70,4 +70,4 @@ Any attempt to use, republish, or incorporate this code into other projects—wh
 
 For licensing inquiries or collaboration requests, please contact via Discord: @kostas25_ .
 
-© 2025 Konstantinos Pavlis, Theofanis Tzoumakas, Michael-Panagiotis Kapetanios. All rights reserved.
+© 2026 Konstantinos Pavlis, Theofanis Tzoumakas, Michael-Panagiotis Kapetanios. All rights reserved.
